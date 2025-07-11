@@ -1,7 +1,5 @@
 # powerbi_balloon_dashboard
-🎈 Balloon Safari Dashboard
-
-A visually engaging and interactive Power BI experience, made simply for tracking balloon ride Safaris by location, price, guests, and other insights. 
+🎈 Balloon Safari Dashboard - A visually engaging and interactive Power BI experience, made simply for tracking balloon ride Safaris by location, price, guests, and other insights. 
 
 <img width="1180" height="573" alt="safari_0" src="https://github.com/user-attachments/assets/d7143fb4-234b-4cf6-aca5-f7713674487c" />
 
