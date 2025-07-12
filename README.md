@@ -19,7 +19,7 @@
 <img width="1179" height="578" alt="safari_9" src="https://github.com/user-attachments/assets/82acda7e-5c45-4946-bd2c-4a01b7275e63" />
 
 ## 📬 PART 3: Feedback & Requests
-📧 Request raw `.pbix` files or DAX source via: **henite2005@gmail.com**  
+📧 Request raw **.pbix** files or DAX source via: **henite2005@gmail.com**  
 💬 Suggestions, improvements, or animation requests are welcome!
 
 <img width="1180" height="575" alt="safari_3" src="https://github.com/user-attachments/assets/3318a373-ca04-4dde-9013-070ba4f0b049" />
